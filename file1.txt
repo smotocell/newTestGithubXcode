@@ -1,0 +1,1 @@
+Primul fisier pentru testare GIT local on Mac
